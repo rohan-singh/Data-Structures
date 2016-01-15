@@ -18,7 +18,7 @@ class AList : public List<E>
         
         ˜AList() // Destructor
         { 
-        delete [] listArray; 
+            delete [] listArray; 
         } 
         void clear() // Reinitialize the list
         {  
