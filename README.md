@@ -18,4 +18,4 @@ Operations
 
 Implementation
 - [Array List] (https://github.com/rohan-singh/Data-Structures/blob/master/arrayList.cpp).
-- Linked List (https://github.com/rohan-singh/Data-Structures/blob/master/linkedList.cpp).
+- [Linked List] (https://github.com/rohan-singh/Data-Structures/blob/master/linkedList.cpp).
