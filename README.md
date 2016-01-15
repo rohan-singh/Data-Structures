@@ -17,5 +17,5 @@ Operations
 - Return: The current element. 
 
 Implementation
-- [Array List] (https://github.com/rohan-singh/Data-Structures/arrayList.cpp).
-- Linked List
+- [Array List] (https://github.com/rohan-singh/Data-Structures/blob/master/arrayList.cpp).
+- Linked List (https://github.com/rohan-singh/Data-Structures/blob/master/linkedList.cpp).
