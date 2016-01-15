@@ -6,7 +6,7 @@ Library of common Data Structures in C++
   - [Linked List Implementation] (https://github.com/rohan-singh/Data-Structures/blob/master/linkedList.cpp).
 - Stack ADT
   - [Array based Stack Implementation] (https://github.com/rohan-singh/Data-Structures/blob/master/arrayStack.cpp).
-  - [Link based List Implementation] (https://github.com/rohan-singh/Data-Structures/blob/master/linkedStack.cpp).
+  - [Link based Stack Implementation] (https://github.com/rohan-singh/Data-Structures/blob/master/linkedStack.cpp).
 - Queue ADT
   - [Array based Queue Implementation] (https://github.com/rohan-singh/Data-Structures/blob/master/arrayQueue.cpp)
   - [Link based Queue Implementation] (https://github.com/rohan-singh/Data-Structures/blob/master/linkedQueue.cpp)
