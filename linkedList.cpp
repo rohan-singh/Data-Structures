@@ -35,7 +35,8 @@ class LList: public List<E>
             removeall(); 
         }
         
-        void print() const; // Print list contents 
+        void print() const; // Print list contents
+        
         void clear()  // Clear list
         { 
             removeall(); 
@@ -65,10 +66,10 @@ class LList: public List<E>
             Link<E>* ltemp = curr->next; // Remember link node 
             if (tail == curr->next) 
                 tail = curr; // Reset tail 
-                curr->next = curr->next->next; // Remove from list 
-                delete ltemp; // Reclaim space 
-                cnt--; // Decrement the count 
-                return it; 
+            curr->next = curr->next->next; // Remove from list 
+            delete ltemp; // Reclaim space 
+            cnt--; // Decrement the count 
+            return it; 
         }
 
         void moveToStart() // Place curr at list start 
@@ -93,7 +94,7 @@ class LList: public List<E>
             // March down list until we find the previous element 
                 while (temp->next!=curr) 
                     temp=temp->next; 
-                    curr = temp; 
+                curr = temp; 
          }
          
         // Move curr one step right; no change if already at end 
