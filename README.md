@@ -14,7 +14,7 @@ Operations
 - Return: The number of elements in the list
 - Return: The position of the current element.
 - Set current position.
-- Set current position.
+- Return: The current element. 
 
 Implementation
 - Array list
