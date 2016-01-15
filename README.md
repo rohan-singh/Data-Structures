@@ -1,6 +1,9 @@
 # Data-Structures
 Library of common Data Structures in C++
 
-List ADT :
-- Array list implementation
-- Linked List implementation
+##List ADT :
+Operations
+
+Implementation
+- Array list
+- Linked List
