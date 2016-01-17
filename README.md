@@ -11,5 +11,5 @@ Library of common Data Structures in C++
   - [Array based Queue] (https://github.com/rohan-singh/Data-Structures/blob/master/arrayQueue.cpp)
   - [Link based Queue] (https://github.com/rohan-singh/Data-Structures/blob/master/linkedQueue.cpp)
 - Dictionary ADT
-  - [Binary Search Tree] (https://github.com/rohan-singh/Data-Structures/blob/master/arrayQueue.cpp)
+  - [Binary Search Tree] (https://github.com/rohan-singh/Data-Structures/blob/master/bst.cpp)
 - Graph ADT
