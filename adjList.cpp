@@ -1,3 +1,4 @@
+// Implementation for the adjacency list representation
 class Graphl : public Graph 
 {
     private:
