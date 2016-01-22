@@ -1,4 +1,4 @@
-// Linked list implementation 
+// Linked list implementation using Template
 template <typename E> 
 class LList: public List<E> 
 {
