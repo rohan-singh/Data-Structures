@@ -4,8 +4,8 @@ Library of common Data Structures in C++
 - List ADT
   - [Array List] (https://github.com/rohan-singh/Data-Structures/blob/master/arrayList.cpp).
   - [Linked List] (https://github.com/rohan-singh/Data-Structures/blob/master/linkedList.cpp).
-  - [Single Link] (https://github.com/rohan-singh/Data-Structures/blob/master/singleList.cpp).
-  - [Double Link] (https://github.com/rohan-singh/Data-Structures/blob/master/doubleList.cpp).
+  - [Single Link] (https://github.com/rohan-singh/Data-Structures/blob/master/singleList.c).
+  - [Double Link] (https://github.com/rohan-singh/Data-Structures/blob/master/doubleList.c).
 - Stack ADT
   - [Array based Stack] (https://github.com/rohan-singh/Data-Structures/blob/master/arrayStack.cpp).
   - [Link based Stack] (https://github.com/rohan-singh/Data-Structures/blob/master/linkedStack.cpp).
