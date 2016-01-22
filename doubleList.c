@@ -1,4 +1,4 @@
-//Double Link List
+//Double Link List (without Template)
 #include <stdio.h>
 #include <stdlib.h>
 
