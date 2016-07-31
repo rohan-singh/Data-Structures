@@ -20,3 +20,7 @@ Library of common Data Structures in C++
 - Graph ADT
   - [Adjacency List] (https://github.com/rohan-singh/Data-Structures/blob/master/adjList.cpp)
   - [Adjacency Matrix] (https://github.com/rohan-singh/Data-Structures/blob/master/adjMatrix.cpp)
+
+[1] https://github.com/fragglet/c-algorithms
+
+[2] https://github.com/xtaci/algorithms
