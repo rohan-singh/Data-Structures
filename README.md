@@ -18,6 +18,7 @@ Library of common Data Structures in C++
   - [Adjacency List] (https://github.com/rohan-singh/Data-Structures/blob/master/adjList.cpp)
   - [Adjacency Matrix] (https://github.com/rohan-singh/Data-Structures/blob/master/adjMatrix.cpp)
 
+Other Resources:
 
 [1] https://github.com/fragglet/c-algorithms
 
